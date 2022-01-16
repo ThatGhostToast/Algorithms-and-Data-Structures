@@ -1,2 +1,2 @@
-# Algorithms_and_Data_Structures
+# Algorithms and Data Structures projects
 All projects from CST-201
