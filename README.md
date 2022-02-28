@@ -13,3 +13,5 @@ CST-201 can get tough sometimes so feel free to use my code as a reference! </br
   - Doubly linked list
 * Project 4
   - Maze solver using a stack (depthFirst)
+* Project 5
+  - Recursive Strings (Slip Slap Slop)
