@@ -1,7 +1,7 @@
 # Algorithms and Data Structures projects
 All projects from CST-201 written in Java</br>
 CST-201 can get tough sometimes so feel free to use my code as a reference! </br> I would just appreciate if you cite me ;)
->Last updated: 2/27/22
+>Last updated: 3/25/22
 ### Projects
 * Project 0
   - Reads in data from a text file, sorts them into alphabetical order, and then allows the user to search for a word.
@@ -15,3 +15,5 @@ CST-201 can get tough sometimes so feel free to use my code as a reference! </br
   - Maze solver using a stack (depthFirst)
 * Project 5
   - Recursive Strings (Slip Slap Slop)
+* Project 6
+  - Binary Search Tree
